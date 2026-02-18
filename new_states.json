@@ -1,0 +1,116 @@
+{
+  "states": [
+    {
+      "abbr": "AP",
+      "name": "Andhra Pradesh"
+    },
+    {
+      "abbr": "AR",
+      "name": "Arunachal Pradesh"
+    },
+    {
+      "abbr": "AS",
+      "name": "Assam"
+    },
+    {
+      "abbr": "BR",
+      "name": "Bihar"
+    },
+    {
+      "abbr": "CG",
+      "name": "Chhattisgarh"
+    },
+    {
+      "abbr": "GA",
+      "name": "Goa"
+    },
+    {
+      "abbr": "GJ",
+      "name": "Gujarat"
+    },
+    {
+      "abbr": "HR",
+      "name": "Haryana"
+    },
+    {
+      "abbr": "HP",
+      "name": "Himachal Pradesh"
+    },
+    {
+      "abbr": "JH",
+      "name": "Jharkhand"
+    },
+    {
+      "abbr": "KA",
+      "name": "Karnataka"
+    },
+    {
+      "abbr": "KL",
+      "name": "Kerala"
+    },
+    {
+      "abbr": "MP",
+      "name": "Madhya Pradesh"
+    },
+    {
+      "abbr": "MH",
+      "name": "Maharashtra"
+    },
+    {
+      "abbr": "MN",
+      "name": "Manipur"
+    },
+    {
+      "abbr": "ML",
+      "name": "Meghalaya"
+    },
+    {
+      "abbr": "MZ",
+      "name": "Mizoram"
+    },
+    {
+      "abbr": "NL",
+      "name": "Nagaland"
+    },
+    {
+      "abbr": "OD",
+      "name": "Odisha"
+    },
+    {
+      "abbr": "PB",
+      "name": "Punjab"
+    },
+    {
+      "abbr": "RJ",
+      "name": "Rajasthan"
+    },
+    {
+      "abbr": "SK",
+      "name": "Sikkim"
+    },
+    {
+      "abbr": "TN",
+      "name": "Tamil Nadu"
+    },
+    {
+      "abbr": "TS",
+      "name": "Telangana"
+    },
+    {
+      "abbr": "TR",
+      "name": "Tripura"
+    },
+    {
+      "abbr": "UP",
+      "name": "Uttar Pradesh"
+    },
+    {
+      "abbr": "UK",
+      "name": "Uttarakhand"
+    },
+    {
+      "abbr": "WB",
+      "name": "West Bengal"
+    }
+  ]
+}

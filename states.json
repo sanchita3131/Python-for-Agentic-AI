@@ -1,0 +1,32 @@
+{
+  "states": [
+    { "name": "Andhra Pradesh", "abbr": "AP", "code": "37" },
+    { "name": "Arunachal Pradesh", "abbr": "AR", "code": "12" },
+    { "name": "Assam", "abbr": "AS", "code": "18" },
+    { "name": "Bihar", "abbr": "BR", "code": "10" },
+    { "name": "Chhattisgarh", "abbr": "CG", "code": "22" },
+    { "name": "Goa", "abbr": "GA", "code": "30" },
+    { "name": "Gujarat", "abbr": "GJ", "code": "24" },
+    { "name": "Haryana", "abbr": "HR", "code": "06" },
+    { "name": "Himachal Pradesh", "abbr": "HP", "code": "02" },
+    { "name": "Jharkhand", "abbr": "JH", "code": "20" },
+    { "name": "Karnataka", "abbr": "KA", "code": "29" },
+    { "name": "Kerala", "abbr": "KL", "code": "32" },
+    { "name": "Madhya Pradesh", "abbr": "MP", "code": "23" },
+    { "name": "Maharashtra", "abbr": "MH", "code": "27" },
+    { "name": "Manipur", "abbr": "MN", "code": "14" },
+    { "name": "Meghalaya", "abbr": "ML", "code": "17" },
+    { "name": "Mizoram", "abbr": "MZ", "code": "15" },
+    { "name": "Nagaland", "abbr": "NL", "code": "13" },
+    { "name": "Odisha", "abbr": "OD", "code": "21" },
+    { "name": "Punjab", "abbr": "PB", "code": "03" },
+    { "name": "Rajasthan", "abbr": "RJ", "code": "08" },
+    { "name": "Sikkim", "abbr": "SK", "code": "11" },
+    { "name": "Tamil Nadu", "abbr": "TN", "code": "33" },
+    { "name": "Telangana", "abbr": "TS", "code": "36" },
+    { "name": "Tripura", "abbr": "TR", "code": "16" },
+    { "name": "Uttar Pradesh", "abbr": "UP", "code": "09" },
+    { "name": "Uttarakhand", "abbr": "UK", "code": "05" },
+    { "name": "West Bengal", "abbr": "WB", "code": "19" }
+  ]
+}
